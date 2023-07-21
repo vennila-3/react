@@ -28,7 +28,34 @@ FEATURES:
         Simplicity
         Performance
 
-ES6:
+app.js (random name)
+
+function App() {
+  function fun(){  // for random printing
+    const name=["play","study","grow"];
+    const num=Math.floor(Math.random()*3); 
+    return name[num];
+  }
+  return (
+   < div>
+ 
+   <h1>hiiiiii</h1>
+   <h2>let's {fun()} </h2>
+
+   </div>
+  );
+}
+
+export default App;
+
+
+
+FUNCTIONAL COMPONENTS:
+     component file name always starts with caps(naming convention only).
+     ctrl+alt+r==search file click rafc create arrow function
+
+CLICK HANDLING:
+      
       
 
 
