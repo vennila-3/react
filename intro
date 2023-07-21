@@ -1,0 +1,35 @@
+
+why we want react js?
+     The main objective of ReactJS is to develop User Interfaces (UI) that improves the speed of the apps.
+     It uses virtual DOM (JavaScript object), which improves the performance of the app.The JavaScript virtual DOM is faster than the regular DOM. 
+     We can use ReactJS on the client and server-side as well as with other frameworks.
+     It uses component and data patterns that improve readability and helps to maintain larger apps.
+
+what is react js?
+      it is a JavaScript library created by Facebook. It was created by Jordan Walke
+      efficient, and flexible JavaScript library for building reusable UI components.
+      It is an open-source.
+      component-based front end library responsible only for the view layer of the application.
+      
+        COMPONENT:
+           components are the heart of all React 
+            A ReactJS application is made up of multiple components, each component responsible for outputting a small, reusable piece of HTML code.
+            These Components can be nested with other components to allow complex applications to be built of simple building blocks. ReactJS uses virtual DOM based mechanism to fill data in HTML DOM.
+             ReactJS allows you to divide your entire application into various components
+        BABeL:
+         Babel is a JavaScript compiler and transpiler used to convert one source code to others.\
+         babel is a tool that helps you write code in the latest version in js
+FEATURES:
+     features of ReactJS are as following.
+        JSX
+        Components
+        One-way Data Binding
+        Virtual DOM
+        Simplicity
+        Performance
+
+ES6:
+      
+
+
+     
