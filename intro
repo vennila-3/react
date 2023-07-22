@@ -54,8 +54,26 @@ FUNCTIONAL COMPONENTS:
      component file name always starts with caps(naming convention only).
      ctrl+alt+r==search file click rafc create arrow function
 
-CLICK HANDLING:
-      
+TODO LIST:
+    const [items]=useState([
+        {id:1,item:"read",checked:true},
+        {id:2,item:"read",checked:true},
+        {id:3,item:"read",checked:true},
+      ])
+  return (
+    <div>
+<ul>
+  {items.map((item)=>(
+    <li>
+      <input 
+      type="checkbox" 
+      checked={item.checked}
+      />
+      <label>{item.item}</label>
+      <button>delete </button>
+      </li>
+  ))}
+</ul>
       
 
 
